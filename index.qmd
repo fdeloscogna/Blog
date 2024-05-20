@@ -1,5 +1,5 @@
 ---
-title: "federicoscognamiglio_view.github.io"
+title: "Federico Scognamiglio"
 listing:
   contents: posts
   sort: "date desc"

@@ -5,15 +5,14 @@ about:
   template: jolla
   links:
     - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+      text: X
+      href: https://x.com/fedeloscogna
     - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+      text: Linkedin
+      href: https://www.linkedin.com/in/federico-scognamiglio/
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/fdeloscogna
 ---
 
 About this blog
