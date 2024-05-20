@@ -7,9 +7,9 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/fdeloscogna
+      - icon: Linkedin
+        href: https://www.linkedin.com/in/federico-scognamiglio/
 format:
   html:
     theme: cosmo
