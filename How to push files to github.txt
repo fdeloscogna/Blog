@@ -1,0 +1,8 @@
+git commit -m "Add untracked files"
+Push to GitHub: After committing the changes locally, push the changes to GitHub:
+
+
+
+
+QUESTO è IL COMANDO CHE VERAMENTE FUNZIONA
+git push origin master
