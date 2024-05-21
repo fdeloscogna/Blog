@@ -5,6 +5,7 @@ project:
 website:
   title: "Federico Scognamiglio"
   favicon: images/me.jpg
+   
   #site-url: 
   page-navigation: true
   back-to-top-navigation: true
