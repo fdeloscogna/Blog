@@ -1,8 +1,11 @@
 ---
 title: "About"
-image: profile.jpg
+image: images/im.jpg
+image-alt: "Federico Scognamiglio"
+cap-location: bottom
+description: "Sneak peek on me"
 about:
-  template: jolla
+  template: trestles
   links:
     - icon: twitter
       text: X
@@ -13,18 +16,61 @@ about:
     - icon: github
       text: Github
       href: https://github.com/fdeloscogna
+      
 ---
 
-├─💼 Career\
-│ ├─ Padua University Hospital / Statistician for Immuno-Oncology research projects│\
-│ ├─ ThyssenKrupp Technologies/ Intern │ \
-│ ├─ University of Turin / Intern in Data Science \
+::: column-screen
+::: panel-tabset
+## About
+
+::: {style="margin-top: 10px; face: bold;font-size: 2em; color: #343a40;"}
+Federico in a nutshell:
+:::
+
+::: {style="margin-top: 10px; font-size: 1.5em; color: #343a40;"}
+Statistician \| Data manager
+:::
+
+::: {style="font-size: 1.1em; color: ##343440;"}
+If you are reading this it means that we have already somethin in common, since like you I’m a curious person. Learning new topics is the best journey to share especially if it can improve healthcare. To contribute in health challenges I work as a healthcare data analyst and what I find astonishing about the data world is that you can exchange ideas with different experts and understand a bit more of their needs and worldview.
+It is easy to find me in workshops or seminars and among them, speak with the authors and participants to gain new ideas, especially to raise new questions. This since sharing ideas and having a chance for new discussion is the learning path that I prefer. 
+Finally, I care a lot about relationships, especially at work, because I believe that an excellent work environment is the key to giving our best.
+:::
+
+
+## External Collaborations
+
+::: {style="margin-top: 10px; face: bold;font-size: 2em; color: #343a40;"}
+:::
+(2024 - Today) Mainz University with biostatistics departement jointly with Bari University Hospital (Germany and Italy)
+
+(2021 - 2022) Ohio Wexner University Hospital with surgery departement (USA)
+
+
+
+
+## Papers
+
+::: {style="margin-top: 10px; face: bold;font-size: 2em; color: #343a40;"}
+List of published papers 
+:::
+
+{{< include about/papers/index.qmd >}}
+:::
+:::      
+---
+
+├─💼 Job Experience\
+│ ├─ Padua University Hospital - Statistician for Immunological research projects\
+│ ├─ ThyssenKrupp Component Technologies division - Intern in sales department\
+│ ├─ University of Turin - Intern in Data Science \
+│ ├─ Acea - Intern in purchasing department \
 │ └─📚 Education\
-│ ├─ University of Verona / MSc Data Science \
-│ └─ University of Turin/ BSc Statistics & Economics\
+│ ├─ University of Verona - MSc Data Science \
+│ └─ University of Turin - BSc Statistics & Economics\
 ├─📦 Projects\
-│ ├─ Cuochi Senza Fuochi - Founder of a group with member coming from different city │ ─\> or country can meet, know each other and share experience while │ ─\> cooking dessert without any money or experience in Padua\
+│ ├─ Cuochi Senza Fuochi - Founder of a group with member coming from different city or country. The format's aim is to let meet, know each other and share experience while cooking dessert without having a kitchen or experience in Padua\
 └─💡 Volunteering\
-├─ Medics with Africa CUAMM - Broadcaster and TV host \
+├─ Medics with Africa CUAMM - Broadcaster and TV host\
 ├─ Medium - Blogging about Data Science \
-├─ Centro Studi Italia Canada - Writer about Canadian AI initiative
+├─ Centro Studi Italia Canada - Writer about Pan-Canadian AI initiative\
