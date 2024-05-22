@@ -31,6 +31,7 @@ Contact me to share your ideas on how improve healthcare by adopting new strateg
 Latest content
 :::
 :::
+---
 
 ```{=html}
 <script>new TypeIt(".multipleStrings", {
@@ -41,4 +42,3 @@ Latest content
   }).go();
 </script>
 ```
----
