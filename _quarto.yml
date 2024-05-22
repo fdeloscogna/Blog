@@ -42,8 +42,9 @@ format:
       #    <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js">
 
 
-
-
+editor: visual
+execute: 
+  freeze: auto
 
 
 
