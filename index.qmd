@@ -8,9 +8,9 @@ listing:
   type: default
   max-items: 3
   categories: false
-  feed: true
+  feed: false
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 format:
   html:
     include-in-header: 
@@ -25,20 +25,16 @@ Contact me to share your ideas on how improve healthcare by adopting new strateg
 :::
 
 <br>
-
-::: column-page
-::: {style="font-size: 2.5em; face: bold; color: #343a40;"}
-Latest content
-:::
-:::
 ---
 
 ```{=html}
 <script>new TypeIt(".multipleStrings", {
-    strings: ["Welcome to Federico's page", "Contact me to share your curiosity or questions", "P.s. Let's keep in touch to bake a Tiramisù 🎂"],
+    strings: ["Welcome to my Blog 💡", "Here you'll find all things Data Science 🕵️️", "Stay tuned for the latest developments 🔍"],
     breakLines: false,
     loop: true,
     speed: 40
   }).go();
 </script>
 ```
+
+------------------------------------------------------------------------
