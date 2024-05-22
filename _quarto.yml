@@ -46,64 +46,6 @@ format:
 
 
 
-website:
-  title: "Federica Gazzelloni"
-  favicon: images/profile.png
-  site-url: https://federicagazzelloni.com
-  description: "Data Science"
-  page-navigation: true
-  back-to-top-navigation: true
-  cookie-consent:
-    type: express
-    style: headline
-    palette: dark
-  google-analytics:
-    tracking-id: "G-119NQB71C8"
-    anonymize-ip: true
-  open-graph: 
-    locale: en_US
-  twitter-card:
-    creator: "@fgazzelloni"
-  navbar:
-    right:
-      - text: "Home"
-        href: index.html
-      - text: "Data Visualization"
-        href: posts/dataviz/index.qmd
-      - text: "Statistics"
-        href: posts/stats/index.qmd
-      - text: "Projects"
-        href: posts/proj/index.qmd
-     # - text: "R-Ladies"
-     #   href: posts/rladies/index.qmd
-      - text:  "About"
-        href: about.qmd
-      - text: "{{< ai orcid size=xl >}}"
-        href: https://orcid.org/0000-0002-4285-611X
-      - icon: github
-        href: https://github.com/fgazzelloni
-      - text: "{{< ai google-scholar size=xl >}}"
-        href: https://scholar.google.com/citations?hl=en&user=Xes0-r0AAAAJ
-      - icon: rss
-        href: index.xml  
-  page-footer:
-    left: "© Copyright 2024 Federica Gazzelloni. CC-BY-NC 4.0."
-    right: 
-      - text: "This Blog is made with 💜 in [Quarto](https://quarto.org/)"
-        href: "https://quarto.org"
-      - icon: github
-        href: https://github.com/fgazzelloni
-      - icon: twitter 
-        href: https://twitter.com/fgazzelloni 
-
-
-         
-
-editor: visual
-execute: 
-  freeze: auto
-
-
 
 
 

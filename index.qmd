@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My Blog"
+title: </script><p class= "multipleStrings" >
 about:
     template: trestles
 listing:
@@ -15,26 +15,26 @@ format:
   html:
     include-in-header: 
       - text: |
-          <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script>
+          <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js">
 ---
 
 ::: column-body-outset
-Welcome to the page where I share all healthcare data challenges. As a data science fresh graduate, I can't wait to talk with you about public health, statistical methods, and health analytics challenges.
+"Welcome to the page where I share all healthcare data challenges. As a data science fresh graduate i can't wait to talk with you about public health, statistical methods and health analytics challenges.
 
-Contact me to share your ideas on how to improve healthcare by adopting new strategies to ease evidence-based decisions.
+Contact me to share your ideas on how improve healthcare by adopting new strategies to ease evidence based decisions."
 :::
 
 <br>
+---
 
-<div class="multipleStrings"></div>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    new TypeIt(".multipleStrings", {
-      strings: ["Welcome to my Blog 💡", "Here you'll find all things Data Science 🕵️️", "Stay tuned for the latest developments 🔍"],
-      breakLines: false,
-      loop: true,
-      speed: 40
-    }).go();
-  });
+```{=html}
+<script>new TypeIt(".multipleStrings", {
+    strings: ["Welcome to my Blog 💡", "Here you'll find all things Data Science 🕵️️", "Stay tuned for the latest developments 🔍"],
+    breakLines: false,
+    loop: true,
+    speed: 40
+  }).go();
 </script>
+```
+
+------------------------------------------------------------------------
