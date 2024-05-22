@@ -40,4 +40,5 @@ Latest content
     speed: 40
   }).go();
 </script>
+```
 ---
