@@ -25,14 +25,25 @@ website:
 
 format:
   html:
-    theme: cosmo
+    smooth-scroll: true
+    theme: sandstone
     css: styles.css
+    link-external-icon: false
+    link-external-newwindow: true
+    citations-hover: true
+    footnotes-hover: true
     toc: true
+    code-link: true
+    title-block-banner: true
+    page-navigation: true
+    back-to-top-navigation: true
+    #include-in-header: 
+     # - text: |
+      #    <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js">
 
-
-
-
-
+editor: visual
+execute: 
+  freeze: auto
 
 
 
