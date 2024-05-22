@@ -19,6 +19,7 @@ about:
       
 ---
 
+<<<<<<< HEAD
 ::: column-screen
 ::: panel-tabset
 ## About
@@ -65,11 +66,21 @@ List of published papers
 │ ├─ ThyssenKrupp Component Technologies division - Intern in sales department\
 │ ├─ University of Turin - Intern in Data Science \
 │ ├─ Acea - Intern in purchasing department \
+=======
+├─💼 Career\
+│ ├─ Padua University Hospital / Statistician for Immuno-Oncology research projects\
+│ ├─ ThyssenKrupp Technologies/ Intern \
+│ ├─ University of Turin / Intern in Data Science \
+>>>>>>> 8a5b2708c88269d21d864c8c0b9dbc4173f83045
 │ └─📚 Education\
 │ ├─ University of Verona - MSc Data Science \
 │ └─ University of Turin - BSc Statistics & Economics\
 ├─📦 Projects\
+<<<<<<< HEAD
 │ ├─ Cuochi Senza Fuochi - Founder of a group with member coming from different city or country. The format's aim is to let meet, know each other and share experience while cooking dessert without having a kitchen or experience in Padua\
+=======
+│ ├─ Cuochi Senza Fuochi - Founder of a group with member coming from different city or country can meet, know each other and share experience while │ ─\> cooking dessert without any money or experience in Padua\
+>>>>>>> 8a5b2708c88269d21d864c8c0b9dbc4173f83045
 └─💡 Volunteering\
 ├─ Medics with Africa CUAMM - Broadcaster and TV host\
 ├─ Medium - Blogging about Data Science \
