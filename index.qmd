@@ -1,5 +1,5 @@
 ---
-title: </script><p class= "multipleStrings" >
+title: "Welcome to My Blog"
 about:
     template: trestles
 listing:
@@ -15,7 +15,7 @@ format:
   html:
     include-in-header: 
       - text: |
-          <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js">
+          <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script>
 ---
 
 ::: column-body-outset
@@ -25,16 +25,17 @@ Contact me to share your ideas on how improve healthcare by adopting new strateg
 :::
 
 <br>
----
 
-```{=html}
-<script>new TypeIt(".multipleStrings", {
-    strings: ["Welcome to my Blog 💡", "Here you'll find all things Data Science 🕵️️", "Stay tuned for the latest developments 🔍"],
-    breakLines: false,
-    loop: true,
-    speed: 40
-  }).go();
+```html
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    new TypeIt(".multipleStrings", {
+      strings: ["Welcome to my Blog 💡", "Here you'll find all things Data Science 🕵️️", "Stay tuned for the latest developments 🔍"],
+      breakLines: false,
+      loop: true,
+      speed: 40
+    }).go();
+  });
 </script>
-```
 
 ------------------------------------------------------------------------
