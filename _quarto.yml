@@ -5,8 +5,6 @@ project:
 website:
   title: "Federico Scognamiglio"
   favicon: images/me.jpg
-   
-  #site-url: 
   page-navigation: true
   back-to-top-navigation: true
   page-footer:
@@ -17,7 +15,8 @@ website:
         href: index.html
       - text: Orcid
         href: https://orcid.org/0000-0002-4610-0950
-      - about.qmd
+      - text: "About"
+        href: about.html
       - icon: github
         href: https://github.com/fdeloscogna
       - icon: linkedin
