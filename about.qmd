@@ -8,15 +8,15 @@ description: "Sneak peek on me"
 about:
   template: trestles
   links:
+    - text: Published papers
+      url: https://orcid.org/0000-0002-4610-0950
     - icon: twitter
       text: X
       href: https://x.com/fedeloscogna
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/federico-scognamiglio/
-    - icon: github
-      text: Github
-      href: https://github.com/fdeloscogna
+
       
 
 ---

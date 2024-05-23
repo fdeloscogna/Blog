@@ -8,8 +8,13 @@ about:
     links:
     - text: Published papers
       url: https://orcid.org/0000-0002-4610-0950
+    - icon: twitter
+      text: X
+      href: https://x.com/fedeloscogna
     - icon: linkedin
-      url: https://www.linkedin.com/in/federico-scognamiglio/
+      text: Linkedin
+      href: https://www.linkedin.com/in/federico-scognamiglio/
+
 
 listing:
   contents: posts
