@@ -12,11 +12,11 @@ website:
   navbar:
     right:
       - text: "Home"
-        href: index.html
+        href: index.qmd
       - text: Orcid
         href: https://orcid.org/0000-0002-4610-0950
       - text: "About"
-        href: about.html
+        href: about.qmd
       - icon: github
         href: https://github.com/fdeloscogna
       - icon: linkedin
