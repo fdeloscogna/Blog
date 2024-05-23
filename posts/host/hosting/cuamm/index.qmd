@@ -1,0 +1,9 @@
+---
+title: "Medics with Africa events"
+date: '2024-05-23'
+image: inter.jpg
+categories: 
+summary: "Medical Doctors presentation after their mission in Africa"
+execute: 
+  eval: false
+---

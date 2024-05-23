@@ -2,8 +2,22 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/datah/index.html",
+      "/posts/host/index.html",
+      "/posts/datah/medical_datactor/aspirin/index.html",
+      "/posts/host/hosting/cuamm/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/datah/index.html",
+    "items": [
+      "/posts/datah/medical_datactor/aspirin/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/host/index.html",
+    "items": [
+      "/posts/host/hosting/cuamm/index.html"
     ]
   }
 ]

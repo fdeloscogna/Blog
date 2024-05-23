@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "\n",
     "section": "",
-    "text": "“Welcome to the page where I share all healthcare data challenges. As a data science fresh graduate i can’t wait to talk with you about public health, statistical methods and health analytics challenges.\nContact me to share your ideas on how improve healthcare by adopting new strategies to ease evidence based decisions.”\n\n\n\n\nFresh news\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\nMay 18, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "“Welcome to the page where I share all healthcare data challenges. As a data science fresh graduate i can’t wait to talk with you about public health, statistical methods and health analytics challenges.\nContact me to share your ideas on how improve healthcare by adopting new strategies to ease evidence based decisions.”\n\n\n\n\nFresh news\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Science and Medicine\n\n\n\n\n\nMedical Datactor the news about Data Science that works with Medical Doctor’s needs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nbroadcasting\n\n\n\n\n\nHosting and broadcasting news\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAspirin Vs Cancer\n\n\n\n\n\n\n\n\n\n\n\nMay 23, 2024\n\n\nFederico\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "Medical Datactor the news about Data Science that works with Medical Doctor’s needs",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+    "text": "Back to top"
   },
   {
     "objectID": "about/papers/publish.html",
@@ -33,5 +33,40 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/datah/index.html",
+    "href": "posts/datah/index.html",
+    "title": "Data Science and Medicine",
+    "section": "",
+    "text": "Aspirin Vs Cancer\n\n\n\n\n\n\n\n\n\n\n\nMay 23, 2024\n\n\nFederico\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "posts/datah/medical_datactor/index.html",
+    "href": "posts/datah/medical_datactor/index.html",
+    "title": "Medical",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "posts/datah/medical_datactor/aspirin/index.html",
+    "href": "posts/datah/medical_datactor/aspirin/index.html",
+    "title": "Aspirin Vs Cancer",
+    "section": "",
+    "text": "The article:\n“It is a rather unexpected effect, because aspirin is mainly used as an anti-inflammatory drug,” says Marco Scarpa, a researcher at the University of Padova, and one of the authors of the study. As Scarpa notes, this study suggests that aspirin may be playing a slightly different role by stimulating the immune system’s surveillance response, which can then prevent or delay the progression of colorectal cancer.\nfull article here: (https://www.nationalgeographic.com/premium/article/aspirin-immune-system-detect-target-cancer-cells)\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/host/hosting/cuamm/index.html",
+    "href": "posts/host/hosting/cuamm/index.html",
+    "title": "Medics with Africa events",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "posts/host/index.html",
+    "href": "posts/host/index.html",
+    "title": "broadcasting",
+    "section": "",
+    "text": "Medics with Africa events\n\n\n\n\n\n\n\n\n\n\n\nMay 23, 2024\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   }
 ]

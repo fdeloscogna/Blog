@@ -1,0 +1,15 @@
+---
+title: Data Science and Medicine
+description: "Medical Datactor the news about Data Science that works with Medical Doctor's needs"
+listing:
+  contents: medical_datactor
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+page-navigation: true
+back-to-top-navigation: true
+---
