@@ -13,10 +13,10 @@ website:
     right:
       - text: "Home"
         href: index.qmd
-      - text: Orcid
-        href: https://orcid.org/0000-0002-4610-0950
       - text: "About"
         href: about.qmd
+      - text: Orcid
+        href: https://orcid.org/0000-0002-4610-0950
       - icon: github
         href: https://github.com/fdeloscogna
       - icon: linkedin
