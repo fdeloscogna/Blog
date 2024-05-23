@@ -4,6 +4,7 @@ image: images/im.jpg
 image-alt: "Federico Scognamiglio"
 cap-location: bottom
 description: "Sneak peek on me"
+
 about:
   template: trestles
   links:

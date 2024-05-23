@@ -1,7 +1,16 @@
 ---
 title: </script><p class= "multipleStrings" >
+image: images/data.jpg
 about:
     template: trestles
+    image-width: 25em
+    image-shape: round
+    links:
+    - text: Published papers
+      url: https://orcid.org/0000-0002-4610-0950
+    - icon: linkedin
+      url: https://www.linkedin.com/in/federico-scognamiglio/
+
 listing:
   contents: posts
   sort: "date desc"
@@ -25,7 +34,13 @@ Contact me to share your ideas on how improve healthcare by adopting new strateg
 :::
 
 <br>
----
+
+
+::: column-page
+::: {style="font-size: 2em; face: bold; color: #343a40;"}
+Fresh news
+:::
+:::
 
 ```{=html}
 <script>new TypeIt(".multipleStrings", {
