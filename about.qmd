@@ -39,7 +39,7 @@ If you are reading this it means that we have already something in common, since
 ::: {style="margin-top: 10px; font-weight: bold; font-size: 2em; color: #343a40;"}
 :::
 
-(2024 - today) Needleye robotics member to improve AI surgery robot
+(2024 - today) Needleye robotics member to improve AI robotics surgery solutions
 
 (2024 - 2025) Mainz University with biostatistics department jointly with Bari University Hospital (Germany and Italy)
 
