@@ -27,7 +27,7 @@ Federico in a nutshell:
 :::
 
 ::: {style="margin-top: 10px; font-size: 1.5em; color: #343a40;"}
-Healtchare analytics \| Data manager
+A healtchare analytics journey
 :::
 
 ::: {style="font-size: 1.1em; color: #343a40;"}
