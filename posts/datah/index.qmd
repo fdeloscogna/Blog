@@ -1,6 +1,6 @@
 ---
-title: Data Science and Medicine
-description: "Medical Datactor the news about Data Science that works with Medical Doctor's needs"
+title: Newcare
+description: "The news about revolution that are solving Medicine's challenges"
 listing:
   contents: medical_datactor
   sort: "date desc"

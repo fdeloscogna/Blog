@@ -33,9 +33,9 @@ format:
 ---
 
 ::: column-body-outset
-"Welcome to the page where I share all healthcare data challenges. As a data science fresh graduate i can't wait to talk with you about public health, statistical methods and health analytics challenges.
+"Welcome to the page where you can find fresh and open healthcare news and challenges. As a data science fresh graduate i can't wait to talk with you about public health, AI and health analytics.
 
-Contact me to share your ideas on how improve healthcare by adopting new strategies to ease evidence based decisions."
+Let's keep in touch to improve healthcare by adopting new strategies to ease evidence based decisions."
 :::
 
 <br>
@@ -49,7 +49,7 @@ Fresh news
 
 ```{=html}
 <script>new TypeIt(".multipleStrings", {
-    strings: ["Welcome to Federico's webpage","If curious about health-data projects you in good company","P.s. contact me for urgent project such as baking a tiramisù"],
+    strings: ["Welcome to the healthcare news and questions blog","If curious about health-data projects you in good company","P.s. contact me for urgent project such as baking a tiramisù"],
     breakLines: false,
     loop: true,
     speed: 40
