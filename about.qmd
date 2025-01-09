@@ -27,7 +27,7 @@ Federico in a nutshell:
 :::
 
 ::: {style="margin-top: 10px; font-size: 1.5em; color: #343a40;"}
-Statistician \| Data manager
+Healtchare analytics \| Data manager
 :::
 
 ::: {style="font-size: 1.1em; color: #343a40;"}
@@ -66,16 +66,20 @@ New Statistical and Deep learning emthods, in the wide public, are commonly link
 ------------------------------------------------------------------------
 
 ├─💼 Job Experience\
-│ ├─ Padua University Hospital - Statistician for Immunological research projects\
+│ ├─ Padua University Hospital - Healthcare analyst at Medicine department\
 │ ├─ ThyssenKrupp Component Technologies division - Intern in sales department\
 │ ├─ University of Turin - Intern in Data Science\
 │ ├─ Acea - Intern in purchasing department\
+│\
 │ └─📚 Education\
 │ ├─ University of Verona - MSc Data Science\
 │ └─ University of Turin - BSc Statistics & Economics\
+│\
 │ ├─📦 Projects\
-│ ├─ Cuochi Senza Fuochi - Founder of a group with member coming from different city or country. The format aim is to meet, know each other and share experience while cooking dessert without having a kitchen or experience in Padua\
+│ ├─ Cuochi Senza Fuochi - Founder of a group with member coming from different city or country. The format aim is to meet, know each other and share experience while cooking dessert without having a kitchen or experience in Padua
+
+│\
 └─💡 Volunteering\
-│├─ Medics with Africa CUAMM - Broadcaster and TV host\
+│├─ Medics with Africa CUAMM - Broadcaster and host\
 │├─ Medium - Blogging about Data Science\
 ├─ Centro Studi Italia Canada - Writer about Pan-Canadian AI initiative\
