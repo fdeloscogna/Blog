@@ -43,7 +43,7 @@ Let's keep in touch to improve healthcare by adopting new strategies to ease evi
 
 ::: column-page
 ::: {style="font-size: 2em; face: bold; color: #343a40;"}
-Fresh news
+Channels of fresh adventures and news
 :::
 :::
 
