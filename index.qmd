@@ -1,6 +1,6 @@
 ---
 title: </script><p class= "multipleStrings" >
-image: images/data.jpg
+image: images/hta.jpg
 about:
     template: trestles
     image-width: 25em
