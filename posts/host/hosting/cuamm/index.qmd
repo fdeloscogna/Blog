@@ -7,3 +7,10 @@ summary: "Medical Doctors presentation after their mission in Africa"
 execute: 
   eval: false
 ---
+
+
+::: column-body-outset
+"In May 2024 we had a huge interview in Padua with 2 medical doctors who just came back from a mission in Africa. 
+The two young MDs did 6 months of residency in two different countries in the African continent. 
+What they explained to us is that it doesn't matter which kind of medical expertise you are doing there. There is a huge need, especially for women and children. Before taking action with the local population it's essential to deal with their culture and then evaluate which kind of action and medical solution to implement."
+:::
