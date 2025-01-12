@@ -10,6 +10,8 @@ execute:
   eval: false
 ---
 
+####  AI and Medical journey
+
 LLMs in medicine are nowadays super in hype.
 Or better, GenAI is super in hype. The last one is different from traditional AI in that it can generate content, such as summaries of text and answers to questions, rather than merely analyzing existing data. 
 GenAI can definitively improve your work as healthcare professional since the goal is just to "removing the robot that is inside you to let you perform more human related task". 
