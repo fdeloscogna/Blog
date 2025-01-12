@@ -1,5 +1,5 @@
 ---
-title: "Healthcare analytics will improve your healthcare job satisfaction"
+title: "Artificial intelligence will improve your healthcare job routine"
 author: "Federico"
 date: "2025-01-11"
 categories:
