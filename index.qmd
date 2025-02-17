@@ -20,7 +20,7 @@ listing:
   contents: posts
   sort: "date desc"
   type: default
-  max-items: 3
+  max-items: 0
   categories: false
   feed: false
 page-layout: full
@@ -29,23 +29,25 @@ format:
   html:
     include-in-header: 
       - text: |
-          <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js">
+          <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script>
+          <style>
+            .quarto-listing {
+              display: none;
+            }
+          </style>
+
+
+
 ---
 
 ::: column-body-outset
-"Welcome to the page where you can find open healthcare news and challenges. As a data science fresh graduate i can't wait to talk with you about public health, AI and health analytics.
+"Welcome to the page where you can find open healthcare news and challenges. As a data science fresh graduate i can't wait to talk with you about health tech, AI and next challenges to.
 
 Let's keep in touch to improve healthcare by adopting new strategies to ease evidence based decisions."
 :::
 
 <br>
 
-
-::: column-page
-::: {style="font-size: 2em; face: bold; color: #343a40;"}
-Channels of fresh adventures and news
-:::
-:::
 
 ```{=html}
 <script>new TypeIt(".multipleStrings", {

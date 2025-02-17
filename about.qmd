@@ -54,13 +54,13 @@ List of published papers
 
 {{< include "about/papers/publish.qmd" >}}
 
-## Thesis
+## Msc. Thesis
 
 ::: {style="margin-top: 10px; font-weight: bold; font-size: 2em; color: #343a40;"}
 Abstract:
 :::
 
-New Statistical and Deep learning emthods, in the wide public, are commonly linked to "big data" scenario. However, especially in healthcare, collecting and annotating large data sets can be very time-consuming and too expensive. In addition, because of the huge and strict regulation that envelops such personal and sensitive data, it's uncommon also to find freely available datasets online. Such boundaries, leads the data professional with a very narrow portfolio of choices mostly when managing predictive models. The challenge deals both with modeling and pre-processing the data since a bad choice in one of these steps can deal with a sub-optimal result with the risk of low-quality decision-making. In addition, low data availability can affect also less complex models in survival analysis when studying a specific disease to discover new patterns to develop new care scenarios, then there is a low probability of finding additional data to compare and validate such phenomenon. Given the data challenge, the manuscript explores the phenomenon theoretically and empirically by conducting two main experiments considering classical statistical methods and deep learning solutions like transfer learning capable of solving tasks in cross-domain knowledge. The thesis underlines how these algorithms behave when dealing with fragmented, structured, and unstructured data created by healthcare systems. The work highlights that despite the scarcity of data available, embracing data science in healthcare can provide practical insights for physicians boosting healthcare quality and evidence-based medicine. (feel free to contact me to get a copy!)
+New Statistical and Deep learning methods, in the wide public, are commonly linked to "big data" scenario. However, especially in healthcare, collecting and annotating large data sets can be very time-consuming and too expensive. In addition, because of the huge and strict regulation that envelops such personal and sensitive data, it's uncommon also to find freely available data sets online. Such boundaries, leads the data professional with a very narrow portfolio of choices mostly when managing predictive models. The challenge deals both with modeling and pre-processing the data since a bad choice in one of these steps can deal with a sub-optimal result with the risk of low-quality decision-making. In addition, low data availability can affect also less complex models in survival analysis when studying a specific disease to discover new patterns to develop new care scenarios, then there is a low probability of finding additional data to compare and validate such phenomenon. Given the data challenge, the manuscript explores the phenomenon theoretically and empirically by conducting two main experiments considering classical statistical methods and deep learning solutions like transfer learning capable of solving tasks in cross-domain knowledge. The thesis underlines how these algorithms behave when dealing with fragmented, structured, and unstructured data created by healthcare systems. The work highlights that despite the scarcity of data available, embracing data science in healthcare can provide practical insights for physicians boosting healthcare quality and evidence-based medicine. (feel free to contact me to get a copy!)
 :::
 :::
 
@@ -68,9 +68,10 @@ New Statistical and Deep learning emthods, in the wide public, are commonly link
 
 ├─💼 Job Experience\
 │ ├─ Padua University Hospital - Healthcare analyst at Medicine department\
+│ ├─ Needleye Robotics startup - External consultant for a robotics surgery startup\
+│ ├─ Mainz University (DE) - Healthcare analytics consultant\
 │ ├─ ThyssenKrupp Component Technologies division - Intern in sales department\
 │ ├─ University of Turin - Intern in Data Science\
-│ ├─ Acea - Intern in purchasing department\
 │\
 │ └─📚 Education\
 │ ├─ University of Verona - MSc Data Science\
